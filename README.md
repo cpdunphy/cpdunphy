@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 ## I'm a Student, Developer, and Leader!!
 
-- 🔭 Personal Projects
+- 🔭 I'm currnetly working on: Personal Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: listen to music & 3D print
+- ⚡ Fun fact: I like to listen to music & 3D print
 
 <!--
 ### Spotify Playing 🎧
