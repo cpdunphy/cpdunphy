@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Collin 👋 <!-- Add Website Here -->
 
 <!--[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)-->
-[![Twitter Follow](https://img.shields.io/twitter/follow/CollinDunphy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/CollinDunphy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcpdunphy&screen_name=CollinDunphy)
 
 ## I'm a Student, Developer, and Leader!!
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="cpdunphy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true" />
+  <img align="left" alt="cpdunphy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&show_icons=true" />
 
 </details>
 
