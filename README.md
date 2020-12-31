@@ -75,12 +75,16 @@ Here are some ideas to get you started:
 
 <!--</details> -->
 
-<details>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
+-->
 
-  <img align="left" alt="cpdunphy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&show_icons=true" />
+  <img align="left" alt="cpdunphy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000" />
+  
+  ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
 
-</details>
+
+<!--</details>-->
 
 [twitter]: https://twitter.com/CollinDunphy
 [instagram]: https://instagram.com/collin.d_7
