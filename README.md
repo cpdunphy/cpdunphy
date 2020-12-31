@@ -1,5 +1,4 @@
 <!--
-**cpdunphy/cpdunphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -61,29 +60,8 @@ Here are some ideas to get you started:
 
 ---
 
-<!--
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
--->
-
-<!--START_SECTION:activity-->
-<!--
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
--->
-<!--END_SECTION:activity-->
-
-<!--</details> -->
-
-<!--<details>
-  <summary>:zap: GitHub Stats</summary>
--->
-
-<img align="left" alt="cpdunphy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000" /> 
-<img align="right" alt="cpdunphy's Lang Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&hide_border=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000">
+<img align="left" alt="cpdunphy's GitHub Stats" src=gitStats /> 
+<img align="right" alt="cpdunphy's Lang Stats" src=langStats>
 <!--
 ![dasith github stats](https://github-readme-stats.vercel.app/api?username=cpdunphy&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)  
 ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&hide_border=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
@@ -94,3 +72,9 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/CollinDunphy
 [instagram]: https://instagram.com/collin.d_7
 [linkedin]: https://linkedin.com/in/collindunphy
+
+
+[gitStats]: https://github-readme-stats.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000
+[langStats]: https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&hide_border=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000
+
+
