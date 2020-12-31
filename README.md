@@ -48,16 +48,15 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<br />
-<br />
-
 ---
+
 <!--
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -81,7 +80,7 @@ Here are some ideas to get you started:
 
   <img align="left" alt="cpdunphy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000" />
   
-  ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
+  ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&hide_border=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
 
 
 <!--</details>-->
