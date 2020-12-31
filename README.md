@@ -82,9 +82,10 @@ Here are some ideas to get you started:
   <summary>:zap: GitHub Stats</summary>
 -->
 
-  <img align="left" alt="cpdunphy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000" />
-  
-  ![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&hide_border=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
+<!--  <img align="left" alt="cpdunphy's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cpdunphy&show_icons=true&hide_border=true&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000" /> -->
+
+![dasith github stats](https://github-readme-stats.vercel.app/api?username=cpdunphy&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)  
+![myskills](https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&hide_border=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
 
 
 <!--</details>-->
