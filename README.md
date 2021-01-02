@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <img align="right" alt="cpdunphy's Lang Stats" src=langStats>
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=cpdunphy&count_private=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)  
+![github stats](https://github-readme-stats.vercel.app/api?username=cpdunphy&count_private=true&hide_border=true&show_icons=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)  
 ![Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cpdunphy&layout=compact&hide_border=true&title_color=2BFFF1&icon_color=2BFFF1&text_color=ffffff&bg_color=000000)
 
 <!--</details>-->
