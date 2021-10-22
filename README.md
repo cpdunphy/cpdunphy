@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="CollinDunphy | Twitter" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />][twitter]
 [<img align="left" alt="CollinDunphy | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
-[<img align="left" alt="collin.d_7 | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
+[<img align="left" alt="collin.dunphy | Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />][instagram]
 
 <br />
 
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <!--</details>-->
 
 [twitter]: https://twitter.com/CollinDunphy
-[instagram]: https://instagram.com/collin.d_7
+[instagram]: https://instagram.com/collin.dunphy
 [linkedin]: https://linkedin.com/in/collindunphy
 
 
