@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I'm currnetly working on: Personal Projects
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I like to listen to music & 3D print
 
 <!--
