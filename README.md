@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Xcode" width="26px" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png" />
+<img align="left" alt="Xcode" width="26px" src="https://docs-assets.developer.apple.com/published/57b52f94a38308a4360b935fd9b4575b/app-icon-realistic-materials@2x.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Swift" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />
